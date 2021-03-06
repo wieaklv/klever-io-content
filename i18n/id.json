@@ -1,0 +1,26 @@
+[
+  {
+    "id": "career_nav_link",
+    "translation": "Karir"
+  },
+  {
+    "id": "news_nav_link",
+    "translation": "Berita"
+  },
+  {
+    "id": "quick_links",
+    "translation": "App Dompet Klever"
+  },
+  {
+    "id": "ecosystem_links",
+    "translation": "Klever Ekositem"
+  },
+  {
+    "id" : "telegram_title",
+    "translation": "Grup Resmi Telegram"
+  },
+  {
+    "id" : "telegram_warning",
+    "translation": "Jangan pernah mengirim Seed Anda, kunci pribadi dalam kelompok atau kepada siapa pun. Tim dukungan kami tidak pernah meminta jenis informasi ini, jadi tetaplah aman."
+  }
+]
