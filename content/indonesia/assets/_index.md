@@ -1,8 +1,8 @@
 ---
 # page title
-title_page: "Assets"
+title_page: "Aset"
 # meta title
-title: "Multi Cryptocurrency Wallet for Bitcoin, Ethereum, Litecoin, Tron and more | Klever Wallet "
+title: "Dompet multi kripto untuk Bitcoin, Ethereum, Litecoin, Tron dan sebagainya | Dompet Klever "
 # meta description
-description : "Smart and secure crypto wallet for Bitcoin (BTC), TRON (TRX), Ethereum (ETH), Binance (BNB), Litecoin (LTC), USD Stablecoins (USDT) and other top cryptocurrency assets. And growing … there is still a lot of room for additions."
+description : "Dompet kripto yang cerdas dan aman untuk Bitcoin (BTC), TRON (TRX), Ethereum (ETH), Binance (BNB), Litecoin (LTC), USD Stablecoin (USDT) dan aset cryptocurrency teratas lainnya. Dan akan terus berkembang… masih banyak ruang untuk tambahan."
 ---

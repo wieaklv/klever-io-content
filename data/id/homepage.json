@@ -1,21 +1,21 @@
 {
   "banner": {
     "enable": true,
-    "pre_title": "+1M Downloads *",
-    "title": "Best all in one Cryptocurrency Wallet",
+    "pre_title": "+1Juta unduhan *",
+    "title": "Terbaik semuanya dalam satu Dompet Cryptocurrency",
     "watermark": "KLV",
-    "brand_name": "Klever Wallet",
-    "content": "is the perfect choice to buy and trade the world’s major cryptocurrencies securely like BTC, ETH, TRX, XRP & LTC.",
+    "brand_name": "Dompet Klever",
+    "content": "adalah pilihan sempurna untuk membeli dan memperdagangkan mata uang kripto utama dunia dengan aman seperti BTC, ETH, TRX, XRP & LTC.",
     "image": "images/banner/mockup-hero.png",
     "iosbutton": {
       "enable": true,
-      "alt": "Download Apple Wallet",
+      "alt": "Unduh dompet di Apple",
       "image": "images/btn-ios.svg",
       "link": "https://apps.apple.com/us/app/id1525584688"
     },
     "androidbutton": {
       "enable": true,
-      "alt": "Download Android Wallet",
+      "alt": "Unduh dompet Android",
       "image": "images/btn-android.svg",
       "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
     }
@@ -23,9 +23,9 @@
 
   "buy_crypto": {
     "enable": true,
-    "subtitle": "Download Klever Wallet to",
-    "name": "Buy Crypto with a Credit Card",
-    "content": "Start your investment in cryptocurrencies by buying directly in the app with a credit card.",
+    "subtitle": "Unduh Klever Wallet untuk",
+    "name": "Membeli Crypto dengan Kartu Kredit",
+    "content": "Mulailah investasi Anda dalam mata uang kripto dengan membeli langsung di aplikasi menggunakan kartu kredit.",
     "image": "images/buy-crypto.png"
   },
 
@@ -35,19 +35,19 @@
     "enable": true,
     "image": "images/swap-mockup.png",
     "subtitle": "Download Klever Wallet to",
-    "title": "Swap your Crypto Instantly",
-    "content": "Trade your currencies directly in the app. No registration, no KYC, no selfie.",
-    "content2":"Receive rewards back from your friends' Swap fees.",
-    "swap_count": "+500k Swaps performed",
+    "title": "Tukar Crypto Anda Secara Instan",
+    "content": "Perdagangkan mata uang Anda langsung di aplikasi. Tanpa registrasi, tanpa KYC, tanpa selfie.",
+    "content2":"Dapatkan imbalan kembali dari biaya Swap teman Anda.",
+    "swap_count": "+500ribu Swap dilakukan",
     "iosbutton": {
       "enable": true,
-      "alt": "Download Apple Wallet",
+      "alt": "Unduh dompet di Apple",
       "image": "images/btn-ios.svg",
       "link": "https://apps.apple.com/us/app/id1525584688"
     },
     "androidbutton": {
       "enable": true,
-      "alt": "Download Android Wallet",
+      "alt": "Unduh dompet Android",
       "image": "images/btn-android.svg",
       "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
     }
@@ -58,20 +58,20 @@
   "browser": {
     "enable": true,
     "image": "images/browser-mockup.png",
-    "subtitle": "Download Klever Wallet to",
-    "title": "Use your favorite Dapps",
-    "content": "A complete browser in your hands to access your favorite blockchain projects.",
-    "content2":"Fully compatible with Tron and Ethereum Blockchains.",
-    "swap_count": "+500k Swaps performed",
+    "subtitle": "Unduh Klever Wallet untuk",
+    "title": "Gunakan Dapps favorit Anda",
+    "content": "Browser lengkap di tangan untuk mengakses proyek blockchain favorit Anda.",
+    "content2":"Sepenuhnya kompatibel dengan Tron dan Ethereum Blockchain.",
+    "swap_count": "+500ribu Swap dilakukan",
     "iosbutton": {
       "enable": true,
-      "alt": "Download Apple Wallet",
+      "alt": "Unduh dompet di Apple",
       "image": "images/btn-ios.svg",
       "link": "https://apps.apple.com/us/app/id1525584688"
     },
     "androidbutton": {
       "enable": true,
-      "alt": "Download Android Wallet",
+      "alt": "Unduh dompet Android",
       "image": "images/btn-android.svg",
       "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
     }
@@ -83,23 +83,23 @@
 
   "feature": {
     "enable": true,
-    "subtitle": "Why Klever Wallet is your best choice",
-    "title": "Complete, safe and easy to use.",
+    "subtitle": "Mengapa Dompet Klever adalah pilihan terbaik Anda",
+    "title": "Lengkap, aman dan mudah digunakan.",
     "feature_item":[
       {
-        "name": "24/7 Support",
+        "name": "24/7 Layanan",
         "icon": "icon-tutorials",
-        "content": "Support is one of our great highlights. We have a global and world-class service team."
+        "content": "Dukungan adalah salah satu sorotan hebat kami. Kami memiliki tim layanan global dan kelas dunia."
       },
       {
         "name": "Peer-to-Peer",
         "icon": "icon-switch",
-        "content": "Klever is a decentralized p2p and self-custody wallet network. Your Keys, your crypto."
+        "content": "Klever adalah jaringan dompet p2p dan hak asuh mandiri yang terdesentralisasi. Kunci Anda, crypto Anda."
       },
       {
-        "name": "Military encryption",
+        "name": "Enkripsi militer",
         "icon": "icon-lock",
-        "content": "Klever utilizes the latest military-grade technology for encryption."
+        "content": "Klever menggunakan teknologi tingkat militer terbaru untuk enkripsi."
       }
     ]
   },
@@ -108,63 +108,63 @@
 
   "global": {
     "enable": true,
-    "subtitle": "Global presence with custom localization",
+    "subtitle": "Kehadiran global dengan kustom lokalisasi",
     "title": "+30 ",
-    "title_countries": "languages",
-    "content":"Configure the language and base currency of your portfolio for an ideal and local experience.",
-    "referral":" We have an incredible referral program too! No ponzi.",
+    "title_countries": "Bahasa",
+    "content":"Konfigurasikan bahasa dan mata uang dasar portofolio Anda untuk pengalaman lokal yang ideal.",
+    "referral":" Kami juga memiliki program rujukan yang luar biasa! Tidak ada ponzi.",
 
     "circle_title": "+190",
-    "circle_text": "countries"
+    "circle_text": "negara"
 
   },
 
   "testimonial": {
     "enable": true,
-    "subtitle": "App Reviews",
-    "title": "What Our Clients Says?",
+    "subtitle": "Ulasan Aplikasi",
+    "title": "Apa Kata Klien Kami?",
     "testimonial_item": [
       {
         "name": "Guilherme Mendes",
         "image": "images/reviews/5_stars.svg",
         "rating": "5",
-        "content": "It's an amazing app! You can use the app easily!"
+        "content": "Ini adalah aplikasi yang luar biasa! Anda dapat menggunakan aplikasi dengan mudah!"
       },
       {
         "name": "Shamine Zen",
         "image": "images/reviews/5_stars.svg",
         "rating": "5",
-        "content": "Great interface and easy to use feature plus the transaction is super fast and easy."
+        "content": "Interface yang bagus dan fitur yang mudah digunakan ditambah transaksi yang super cepat dan mudah."
       },
       {
         "name": "Abel Gallegos",
         "image": "images/reviews/5_stars.svg",
         "rating": "5",
-        "content": "Try it. Best crypto wallet"
+        "content": "Cobalah. Dompet crypto terbaik"
       },
       {
         "name": "CleanAFGadgets",
         "image": "images/reviews/4_stars.svg",
         "rating": "4",
-        "content": "User friendly and smooth."
+        "content": "Penggunaan yang mudah tanpa Lag."
       },
       {
         "name": "Vro319",
         "image": "images/reviews/5_stars.svg",
         "rating": "5",
-        "content": "WOW! I was able to send my bitcoin here and it took seconds to show up. Through this app I’m able to now see mass adoption."
+        "content": "WOW! Saya bisa mengirim bitcoin saya ke sini dan butuh beberapa detik untuk muncul. Melalui aplikasi ini saya sekarang dapat melihat adopsi massal."
       },
       {
         "name": "James Rolls",
         "image": "images/reviews/5_stars.svg",
         "rating": "5",
-        "content": "This wallet totally ROCKS It is the Best wallet in crypto imo."
+        "content": "Dompet ini benar-benar ROCKS Ini adalah dompet terbaik di crypto imo."
       },
       {
         "name": "BENSDAD143",
         "image": "images/reviews/5_stars.svg",
         "rating": "5",
-        "content": "Best Wallet. Love this wallet. Developers are always working to enhance features."
+        "content": "Dompet Terbaik. saya suka dompet ini. Pengembang selalu bekerja untuk menyempurnakan fitur."
       }
     ]
   },
@@ -172,18 +172,18 @@
 
   "download": {
     "enable": true,
-    "title": "Download Klever Wallet",
+    "title": "Unduh Dompet Klever",
     "image": "images/download-mobile-img.jpg",
-    "content": "Don’t miss out, download Klever Wallet today and take advantage of all the powerful features of the world’s major cryptocurrencies has to offer.",
+    "content": "Jangan lewatkan, unduh Klever Wallet hari ini dan manfaatkan semua fitur canggih yang ditawarkan mata uang kripto utama dunia.",
     "iosbutton": {
       "enable": true,
-      "alt": "Download Apple Wallet",
+      "alt": "Unduh Dompet Apple",
       "image": "images/btn-ios.svg",
       "link": "https://apps.apple.com/us/app/id1525584688"
     },
     "androidbutton": {
       "enable": true,
-      "alt": "Download Android Wallet",
+      "alt": "Unduh dompet Android",
       "image": "images/btn-android.svg",
       "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
     }
@@ -191,23 +191,23 @@
 
   "faq": {
     "enable": true,
-    "subtitle": "Klever Wallet FAQ",
-    "title": "Frequently Asked Questions",
+    "subtitle": "Dompet Klever FAQ",
+    "title": "Pertanyaan yang Sering Diajukan",
     "faq_item":[
       {
-        "name": "What is Klever ? ",
-        "content": "<p>Klever.io is a crypto wallet ecosystem serving over 2 million users from more than 200 countries worldwide with Klever App, Klever OS, Klever Swap, and other emerging products and services. Klever App is a simple, powerful, smart and secure crypto wallet for Bitcoin (BTC), TRON (TRX), Ethereum (ETH), Binance (BNB), Litecoin (LTC) and other top cryptocurrency assets.</p><p>Klever is a decentralized p2p and self-custody wallet network, putting the private keys in the hands of their users. This means that the users have total and full control of their private keys and that the Klever team cannot at any time or in any way access users’ funds or view their private keys.</p><p>Klever is made for people who aim to be in control of their own money and crypto, and the app is optimized for mobile payments and a decentralized economy where the user holds the keys to their financial future, without censorship, and with full privacy and anonymity.</p><p>Klever offers true and secure ownership of cryptocurrency. The security of Klever App is ensured by being built on top of Klever OS (Operating System), which uses advanced security mechanisms that completely protect the users’ private keys and funds. </p><p>Klever’s encrypted and secure architecture makes private keys and sensitive data available only on the user’s specific mobile device, as Klever utilizes the latest military-grade technology for encryption.Buy Coins & Swap CryptoUsers can buy KLV and cryptocurrencies with a credit or debit card from anywhere in the world and receive the purchased coins in their Klever wallet in minutes, with full security all inside the Klever App.Klever offers more than 300 instant pairs for direct trade in Klever Swap, which allows users to securely convert any coin or token to another at the push of a button, without having to leave your wallet. KLV serves as the fuel for Klever Swap, and enables reduced and lowered Swap fees. KLV Staking inside the Klever App enables users to earn a passive income and claim rewards on every hour. There is currently more than 51% of all KLV in circulation frozen and staked by Klever users. Klever Supports 10 Blockchains & Thousands of Cryptos.</p><h4>The Klever ecosystem supports the world’s major blockchains, including:</h4><ul><li>- Bitcoin (BTC)</li><li>- Ethereum (ETH)</li><li>- TRON (TRX)</li><li>- Binance (BNB)</li><li>- Ripple (XRP)</li><li>- Litecoin (LTC)</li><li>- DigiByte (DGB)</li><li>- DogeCoin (DOGE)</li><li>- Dash (DASH)</li><li>- Bitcoin Cash (BCH)</li><li>- All ERC20 token</li><li>- All TRC10 and TRC20 tokens</li><li>- All BEP20 tokens</li></ul><h4>Klever Ecosystem & Roadmap</h4><p>Klever App is a central element of the Klever ecosystem, but only one part of the whole network. Klever OS serves as the foundation and security mechanism for the entire Klever network of products and services, with the upcoming Klever SDK (Software Development Kit) to offer a plug-and-play crypto wallet for all developers who want to integrate blockchain features into their app, website, wearables or other applications. The Klever team will launch a series of new platforms to expand the product series of the ecosystem, including Klever Exchange in Q1 this year, Klever Browser for mobile, Klever Bank. in Q2 2020, and Klever Blockchain. KLV will serve as the main utility token on all Klever’s current and future platforms.</p>"
+        "name": "Apa itu Klever?",
+        "content": "<p>Klever.io adalah ekosistem dompet crypto yang melayani lebih dari 2 juta pengguna dari lebih dari 200 negara di seluruh dunia dengan Aplikasi Klever, Klever OS, Klever Swap, dan produk serta layanan baru lainnya. Klever App adalah dompet kripto yang sederhana, kuat, cerdas, dan aman untuk Bitcoin (BTC), TRON (TRX), Ethereum (ETH), Binance (BNB), Litecoin (LTC), dan aset mata uang kripto teratas lainnya. </p> <p > Klever adalah dompet crypto dengan jaringan p2p dan Self-custody yang terdesentralisasi, yang menempatkan kunci pribadi di tangan penggunanya. Ini berarti bahwa pengguna memiliki kendali penuh atas kunci privat mereka , bahkan tim Klever tidak dapat mengakses dana pengguna atau melihat kunci privat kapan pun atau dengan cara apa pun. </p> <p> Klever dibuat untuk orang-orang yang bertujuan untuk mengendalikan uang dan kripto mereka sendiri, dan aplikasinya dioptimalkan untuk pembayaran seluler dan ekonomi terdesentralisasi di mana pengguna memegang kunci masa depan keuangan mereka, tanpa sensor, dan dengan privasi penuh dan anonimitas. </p> < p> Klever menawarkan kepemilikan cryptocurrency yang benar dan aman. Keamanan Aplikasi Klever dipastikan dengan dibangun di atas Klever OS (Sistem Operasi), yang menggunakan mekanisme keamanan tingkat lanjut yang sepenuhnya melindungi kunci dan dana pribadi pengguna. </p> <p> Arsitektur Klever yang dienkripsi dan aman membuat kunci pribadi dan data sensitif hanya tersedia di perangkat seluler spesifik pengguna, karena Klever menggunakan teknologi tingkat militer terbaru untuk enkripsi. Beli Koin & Tukar Crypto Pengguna dapat membeli KLV dan cryptocurrency dengan kartu kredit atau debit dari mana saja di dunia dan menerima koin yang dibeli di dompet Klever mereka dalam hitungan menit, dengan keamanan penuh semua di dalam Aplikasi Klever. Klever menawarkan lebih dari 300 pasangan instan untuk perdagangan langsung di Klever Swap, yang memungkinkan pengguna untuk dengan aman mengonversi koin atau token apa pun ke yang lain dengan menekan satu tombol, tanpa harus meninggalkan dompet Anda. KLV berfungsi sebagai bahan bakar untuk Klever Swap, dan memungkinkan pengurangan dan penurunan biaya Swap. KLV Staking di dalam Aplikasi Klever memungkinkan pengguna untuk mendapatkan penghasilan pasif dan mengklaim hadiah setiap jam. Saat ini lebih dari 51% dari semua KLV yang beredar dibekukan dan dipertaruhkan oleh pengguna Klever. Klever Mendukung 10 Blockchain & Ribuan Crypto. </p> <h4> Ekosistem Klever mendukung blockchain utama dunia, termasuk: </h4> <ul> <li> - Bitcoin (BTC) </li> <li> - Ethereum (ETH) </li> <li> - TRON (TRX) </li> <li> - Binance (BNB) </li> <li> - Ripple (XRP) </li> <li> - Litecoin ( LTC) </li> <li> - DigiByte (DGB) </li> <li> - DogeCoin (DOGE) </li> <li> - Dash (DASH) </li> <li> - Bitcoin Cash (BCH ) </li> <li> - Semua token ERC20 </li> <li> - Semua token TRC10 dan TRC20 </li> <li> - Semua token BEP20 </li> </ul> <h4> Ekosistem Klever & Peta Jalan </h4> <p> Aplikasi Klever adalah elemen sentral dari ekosistem Klever, tetapi hanya satu bagian dari keseluruhan jaringan. Klever OS berfungsi sebagai fondasi dan mekanisme keamanan untuk seluruh jaringan produk dan layanan Klever, dengan Klever SDK (Software Development Kit) yang akan datang untuk menawarkan dompet kripto plug-and-play untuk semua pengembang yang ingin mengintegrasikan fitur-fitur blockchain ke dalam mereka. aplikasi, situs web, perangkat yang dapat dikenakan, atau aplikasi lain. Tim Klever akan meluncurkan serangkaian platform baru untuk memperluas rangkaian produk ekosistem, termasuk Klever Exchange di Q1 tahun ini, Klever Browser untuk seluler, Klever Bank. di Q2 2020, dan Klever Blockchain. KLV akan berfungsi sebagai token utilitas utama di semua platform Klever saat ini dan di masa depan.</p>"
       },
       {
-        "name": "Why should you use a crypto wallet?",
-        "content": "<p>Cryptocurrency wallets are the only safe way to store your cryptocurrencies.</p> <p>Many people leave their cryptos directly at exchanges, but delegating custody of their currencies to third parties is always a risk.</p><p>Why choose Klever Wallet then?</p><p>Our wallet, in addition to being super secure, is also one of the most complete on the market, allowing access to all the features of each blockchain giving super powers to users far beyond conventional crypto transactions.</p><p>Your keys, your cryptos. If you don't have access to your address's private key, your cryptocurrencies will always be at risk.</p>"
+        "name": "Mengapa Anda harus menggunakan dompet kripto?",
+        "content": "<p>Dompet Cryptocurrency adalah satu-satunya cara yang paling aman untuk menyimpan cryptocurrency Anda. </p> <p> Banyak orang maenaruh cryptos mereka langsung di Exchange, itu beresiko, karena mendelegasikan hak asuh mata uang kepada pihak ketiga. </p> <p> Mengapa pilih Dompet Klever? </p> <p> Dompet kami, selain sangat aman, juga merupakan salah satu yang paling lengkap di pasar, memungkinkan akses ke semua fitur dari setiap blockchain yang memberikan kekuatan super kepada pengguna yang jauh melebihi konvensional transaksi kripto. </p> <p> Kunci Anda, kripto Anda. selama Anda tidak memiliki akses ke kunci pribadi alamat Anda, mata uang kripto Anda akan selalu berisiko.</p>"
       },
       {
-        "name": "How to buy crypto with credit or debit card using Klever app?",
-        "content": "<p>The ultimate guide and step-by-step tutorial on how to buy <b>Bitcoin (BTC)</b>, <b>Klever (KLV)</b>, <b>Ethereum (ETH)</b>, <b>Tron (TRX)</b> and <b>Ripple (XRP)</b> fast and securely with credit or debit cards right in the Klever App. </p> <p>Download Klever App for Android or iOS at: https://klever.io</p> <h4>How to buy cryptocurrencies in Klever:</h4> <ul><li> 1. Click on Buy Crypto Banner.</li>  <li>2. Choose Coin or Token to Buy. </li><li> 3. Input Amount of Crypto you want to Buy, or Fiat Value.</li><li>  4. Select Your Receiving Address. </li><li> 5. Input your Card Details & Fill the Form. </li><li> 6. Upload your Identity Document. </li><li>  7. Wait for your payment request to be approved. </li> </ul><h4>To check your Buy Order: </h4><ul><li>1. Click on Buy Crypto Banner.</li><li>  2. Click on Orders  </li></ul><p>If you have any questions or is in need of support with your crypto purchase, please contact support@simplex.com.</p><div class='video-faq'><iframe width='560' height='315' src='https://www.youtube.com/embed/Ie7ysHQ05Xw' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
+        "name": "Bagaimana cara membeli crypto dengan kartu kredit atau debit menggunakan aplikasi Klever?",
+        "content": "<p>Panduan utama dan tutorial langkah demi langkah tentang cara membeli <b> Bitcoin (BTC) </b>, <b> Klever (KLV) </b>, <b> Ethereum (ETH) </b>, <b> Tron (TRX) </b> dan <b> Ripple (XRP) </b> cepat dan aman dengan kartu kredit atau debit langsung di Aplikasi Klever. </p> <p> Unduh Aplikasi Klever untuk Android atau iOS di: https://klever.io </p> <h4> Cara membeli cryptocurrency di Klever: </h4> <ul> <li> 1. Klik di Buy Crypto Banner. </li> <li> 2. Pilih Koin atau Token untuk Dibeli. </li> <li> 3. Masukkan Jumlah Crypto yang ingin Anda Beli, atau Nilai Fiat. </li> <li> 4. Pilih Alamat Penerimaan Anda. </li> <li> 5. Masukkan Detail Kartu Anda & Isi Formulir. </li> <li> 6. Unggah Dokumen Identitas Anda. </li> <li> 7. Tunggu permintaan pembayaran Anda disetujui. </li> </ul> <h4> Untuk memeriksa Pesanan Beli Anda: </h4><ul> <li> 1. Klik Beli Spanduk Kripto. </li> <li> 2. Klik Pesanan </li></ul> <p> Jika Anda memiliki pertanyaan atau membutuhkan dukungan dengan pembelian kripto Anda, silakan hubungi support @ simplex .com.</p><div class='video-faq'><iframe width='560' height='315' src='https://www.youtube.com/embed/Ie7ysHQ05Xw' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
       },
       {
-        "name": "How does Klever's referral program work?",
+        "name": "Bagaimana cara kerja program rujukan Klever?",
         "content": "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
       }
       

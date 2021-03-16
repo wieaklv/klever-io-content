@@ -2,7 +2,7 @@
 # page title
 title_page: "Browser"
 # meta title
-title: "Klever Browser - Access your favorite dapps directly in the wallet | Klever Wallet"
+title: "Klever Browser - Akses aplikasi favorit Anda langsung di dompet | Dompet Klever"
 # meta description
-description : "Klever Wallet’s Dapps Browser is a simple and secure integration interface between your favorite Dapps and your blockchain accounts. Our Dapp Browser is currently compatible with Dapps from the Tron and Ethereum blockchains."
+description : "Browser Dapps Klever Wallet adalah antarmuka integrasi yang sederhana dan aman antara Dapps favorit Anda dan akun blockchain Anda. Browser Dapp kami saat ini kompatibel dengan Dapps dari blockchain Tron dan Ethereum."
 ---

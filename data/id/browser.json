@@ -6,18 +6,18 @@
     "browser_bg": "images/browser/browser-bg.png",
     "browser_mockup": "images/browser-mockup.png",
     "browser_mockup_alt": "images/assets-mockup.png",
-    "subtitle": "Decentralized Application (DApp) Browser",
-    "title": "Access your favorite Dapps directly in the wallet.",
-    "content": "Klever Wallet’s Dapps Browser is a simple and secure integration interface between your favorite Dapps and your blockchain accounts. Our Dapp Browser is currently compatible with Dapps from the Tron and Ethereum blockchains.",
+    "subtitle": "Aplikasi Browser Terdesentralisasi (DApp)",
+    "title": "Akses Dapps favorit Anda langsung di dompet.",
+    "content": "Dapps Browser Klever Wallet adalah integrasi antarmuka yang aman dan sederhana antara Dapps favorit dan akun blockchain Anda. Browser Dapp kami saat ini kompatibel dengan Dapps dari blockchain Tron dan Ethereum.",
     "iosbutton": {
       "enable": true,
-      "alt": "Download Apple Wallet",
+      "alt": "Unduh dompet di Apple",
       "image": "images/btn-ios.svg",
       "link": "https://apps.apple.com/us/app/id1525584688"
     },
     "androidbutton": {
       "enable": true,
-      "alt": "Download Android Wallet",
+      "alt": "Unduh dompet di Android",
       "image": "images/btn-android.svg",
       "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
     }
@@ -26,29 +26,29 @@
 
   "feature": {
     "enable": true,
-    "subtitle": "Explore the blockchain world",
-    "title": "Play, trade, invest, collect and receive rewards using Dapps.",
-    "content": "The decentralized world of finance and other emerging services on the blockchain are available to you at the push of a button.",
+    "subtitle": "Jelajahi dunia blockchain",
+    "title": "Mainkan, perdagangkan, investasikan, kumpulkan, dan terima hadiah menggunakan Dapps.",
+    "content": "Dunia keuangan terdesentralisasi dan layanan baru lainnya di blockchain tersedia untuk Anda dengan menekan satu tombol.",
     "feature_item":[
       {
-        "name": "Games",
+        "name": "Permainan",
         "icon": "icon-games",
-        "category":"games"
+        "category":"permainan"
       },
       {
-        "name": "Exchange",
+        "name": "Penukaran",
         "icon": "icon-exchange",
-        "category":"exchange"
+        "category":"Penukaran"
       },
       {
-        "name": "Collectibles",
+        "name": "Barang koleksi",
         "icon": "icon-collectibles",
-        "category":"collectibles"
+        "category":"Barang koleksi"
       },
       {
-        "name": "Rewards",
+        "name": "Hadiah",
         "icon": "icon-rewards",
-        "category":"rewards"
+        "category":"Hadiah"
       },
       {
         "name": "DeFi",
@@ -56,14 +56,14 @@
         "category":"defi"
       },
       {
-        "name": "Loan",
+        "name": "Pinjaman",
         "icon": "icon-loan",
-        "category":"loan"
+        "category":"Pinjaman"
       },
       {
-        "name": "Travel",
+        "name": "Perjalanan",
         "icon": "icon-travel",
-        "category":"travel"
+        "category":"Perjalanan"
       },
       {
         "name": "Crowdfunding",
@@ -77,20 +77,20 @@
 
   "faq": {
     "enable": true,
-    "subtitle": "Klever Wallet FAQ",
-    "title": "Frequently Asked Questions",
+    "subtitle": "Dompet Klever FAQ",
+    "title": "Pertanyaan yang Sering Diajukan",
     "faq_item":[
       {
-        "name": "What is a DApp?",
-        "content": "<p>A decentralized application (DApp) is a computer application that runs on a distributed computing system. DApps have been popularized by distributed ledger technologies (DLT) such as the Ethereum Blockchain, where DApps are often referred to as smart contracts.</p>"
+        "name": "Apa itu DApp?",
+        "content": "<p>Aplikasi terdesentralisasi (DApp) adalah aplikasi komputer yang berjalan pada sistem komputasi terdistribusi. DApps telah dipopulerkan oleh teknologi distributed ledger technologies (DLT) seperti Ethereum Blockchain, di mana DApps sering disebut sebagai kontrak pintar.</p>"
       },
       {
-        "name": "Does the Browser access any type of website?",
-        "content": "<p>Yes, our browser works just like any web browser. You can access DApps, CoinMarketCap, as well as Google, Facebook, or any other website on the network.</p>"
+        "name": "Apakah Browser bisa mengakses semua jenis situs web?",
+        "content": "<p>Ya, browser kami bekerja seperti browser web lainnya. Anda dapat mengakses DApps, CoinMarketCap, serta Google, Facebook, atau situs web lain di jaringan.</p>"
       },
       {
-        "name": "Are the DApps accessed through the wallet from Klever?",
-        "content": "<p>No. The wallet only makes the transparent connection between the DApps and your account, but we are not the owners and we are not responsible for any transaction carried out through the wallet with the browser DApps. Always do your research.</p>"
+        "name": "Apakah DApps dapat diakses melalui dompet dari Klever?",
+        "content": "<p>Tidak. Dompet hanya membuat koneksi transparan antara DApps dan akun Anda, tetapi kami bukan pemiliknya dan kami tidak bertanggung jawab atas transaksi apa pun yang dilakukan melalui dompet dengan browser DApps. Selalu lakukan riset sebelum mengakses.</p>"
       }
       
     ]

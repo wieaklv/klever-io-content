@@ -3,17 +3,17 @@
 
   "started": {
     "enable": true,
-    "time_start": "Time to start",
-    "start_content": "<p>The pool address will be released after the countdown ends.</p>"
+    "time_start": "Waktunya memulai",
+    "start_content": "<p>Alamat pool akan dirilis setelah hitungan mundur berakhir.</p>"
   },
 
 
   "how": {
     "enable": true,
     "subtitle": "Klever Finance Token (KFI)",
-    "title": "How to mine KFI?",
-    "content_alert":"Read all instructions carefully. If your deposit does not meet all of the requirements below, your KLV will be forfeited.",
-    "content":"<p>People who have the KLV token will be able to add it as liquidity to extract the KFI token at the end of the term.</p><ul><li>1. The process will be automatic, just send your KLV to the address of the QR Code *.</li><li>2. All KLV sent to this address will be burned at the end of the term when the KFI is distributed.</li></ul>"
+    "title": "Bagaimana cara menambang KFI?",
+    "content_alert":"Baca semua instruksi dengan seksama. Jika deposit Anda tidak memenuhi semua persyaratan di bawah ini, KLV Anda akan hangus.",
+    "content":"<p> Orang yang memiliki token KLV akan dapat menambahkannya sebagai likuiditas untuk mengekstrak token KFI di akhir jangka waktu. </p> <ul> <li> 1. Prosesnya otomatis, tinggal kirim KLV ke alamat QR Code *. </li> <li> 2. Semua KLV yang dikirim ke alamat ini akan dibakar di akhir jangka waktu saat KFI didistribusikan. </li> </ul>"
     
   },
 
@@ -21,60 +21,60 @@
     "enable": true,
     "total_burnt_title":"Total Pool",
     "total_burnt_icon":"🔥",
-    "total_burnt_tip":"Total KLV received at the mining address",
+    "total_burnt_tip":"Total KLV yang diterima di alamat penambangan",
     "total_burnt_volume":"123,234,455.00",
-    "kfi_max":"Total to mine",
-    "kfi_max_tip":"Total available for mining",
+    "kfi_max":"Total untuk menambang",
+    "kfi_max_tip":"Total tersedia untuk penambangan",
     "kfi_max_value":" 100,000.00",
-    "kfi_mined":"Mined",
-    "kfi_mined_tip":"KFI already mined",
+    "kfi_mined":"Ditambang",
+    "kfi_mined_tip":"KFI sudah ditambang",
     "kfi_mined_value":" 25,856.00",
-    "kfi_tobemined":"To be mined per day",
+    "kfi_tobemined":"Untuk ditambang per hari",
     "kfi_tobemined_value":" 3,333.33"
   },
 
 
   "qrcode" : {
     "enable": true,
-    "open_code": "I am aware of the rules, show me the address.",
-    "min_value" : "* Only send multiple values ​​of 1,000 KLV to the address. Lower values ​​may be lost if the distribution is less than 0.000001 KFI.",
-    "time_left" : "Time Left"
+    "open_code": "Saya mengetahui aturannya, tunjukkan alamatnya.",
+    "min_value" : "* Hanya mengirim beberapa nilai 1.000 KLV ke alamat. Nilai yang lebih rendah mungkin hilang jika distribusinya kurang dari 0,000001 KFI.",
+    "time_left" : "Waktu tersisa"
   },
 
   "userdata" :{
     "enable" : true,
-    "total_sent": "Total sent to the pool",
-    "total_sent_tip": "Total sent by this address",
-    "partial_mined": "Total mined",
-    "partial_mined_tip": "Total already mined by this address",
-    "projection_mine": "Today's mining projection",
-    "projection_mine_tip": "This value may vary"
+    "total_sent": "Total dikirim ke pool",
+    "total_sent_tip": "Total dikirim oleh alamat ini",
+    "partial_mined": "Total yang ditambang",
+    "partial_mined_tip": "Total sudah ditambang oleh alamat ini",
+    "projection_mine": "Proyeksi pertambangan hari ini",
+    "projection_mine_tip": "Nilai ini mungkin berbeda-beda"
   },
 
 
   "why": {
     "enable": true,
     "subtitle": "Klever Finance Token (KFI)",
-    "title": "Why mine KFI?",
-    "content":"Klever Blockchain will distribute 100% of the protocol fees as KLV network rewards to the KFI governance community. Each Klever Blockchain app, or kapp, can have their own set of fees. Rewards are fees automatically collected on apps.",
-    "content_highlight":"The Klever Finance Token (KFI) is the Klever Blockchain Governance Token.",
-    "whitepaper_btn":"Download Whitepaper"
+    "title": "Mengapa menambang KFI?",
+    "content":"Klever Blockchain akan mendistribusikan 100% dari biaya protokol sebagai hadiah jaringan KLV kepada komunitas tata kelola KFI. Setiap aplikasi Klever Blockchain, atau kapp, dapat memiliki tarifnya sendiri. Imbalan adalah biaya yang dikumpulkan secara otomatis di aplikasi.",
+    "content_highlight":"The Klever Finance Token (KFI) adalah Token Tata Kelola Blockchain Klever.",
+    "whitepaper_btn":"Unduh Whitepaper"
   },
 
 
 
   "faq": {
     "enable": true,
-    "subtitle": "Klever Wallet FAQ",
-    "title": "Frequently Asked Questions",
+    "subtitle": "Dompet Klever FAQ",
+    "title": "Pertanyaan yang Sering Diajukan",
     "faq_item":[
       {
-        "name": "What is the difference between KLV and KFI?",
-        "content": "<p>To clarify, KLV Coin is the main utility token of the Klever Blockchain and KFI is the governance token of the blockchain.</p><p>Klever Blockchain allows us to build unlimited point-to-point applications in the chain. Each protocol application will have its own fee contribution model for the network itself and the KFI governance community. As more applications are developed on the Klever Blockchain, more value flows to liquidity pools through the KLV and more rewards are distributed to the KFI governance community.</p>"
+        "name": "Apa perbedaan antara KLV dan KFI?",
+        "content": "<p>Untuk memperjelas, KLV Coin adalah token utilitas utama dari Klever Blockchain dan KFI adalah token tata kelola dari blockchain. </p> <p> Klever Blockchain memungkinkan kita untuk membangun aplikasi point-to-point yang tidak terbatas dalam rantai tersebut. Setiap aplikasi protokol akan memiliki model kontribusi biayanya sendiri untuk jaringan itu sendiri dan komunitas tata kelola KFI. Karena semakin banyak aplikasi yang dikembangkan di Klever Blockchain, lebih banyak nilai mengalir ke kumpulan likuiditas melalui KLV dan lebih banyak penghargaan didistribusikan ke komunitas tata kelola KFI.</p>"
       },
       {
-        "name": "How can I use KFI on Klever Blockchain?",
-        "content": "<p>You can use KFI on Klever Blockchain to:</p><ul><li>• Vote for new proposals</li><li>• Vote for new projects</li><li>• Vote for change proposals</li><li>• Vote for upgrade proposals</li><li>• Earn network rewards</li></ul>"
+        "name": "Bagaimana saya bisa menggunakan KFI di Klever Blockchain?",
+        "content": "<p> Anda dapat menggunakan KFI di Klever Blockchain untuk: </p> <ul> <li> • Memberi suara untuk proposal baru </li> <li> • Memberi suara untuk proyek baru </li> <li> • Memberi suara untuk perubahan proposal </li> <li> • Pilih proposal peningkatan </li> <li> • Dapatkan hadiah jaringan </li> </ul>"
       }
       
     ]
